@@ -1,3 +1,4 @@
 1. belajar github
 2. untuk support program
 3. belajar phyton
+4. belajar django
